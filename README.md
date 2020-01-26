@@ -1,6 +1,6 @@
 # City Weather backend
 
-City Weather frontend: [https://github.com/Andro172/City_Weather_frontend.git](https://github.com/Andro172/City_Weather_frontend.git)
+City Weather frontend: [https://github.com/Andro172/City_Weather_frontend](https://github.com/Andro172/City_Weather_frontend)
 
 ## Requirements
 
