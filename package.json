@@ -26,7 +26,7 @@
     "morgan": "^1.9.1",
     "node-cron": "^2.0.3",
     "openweather-apis": "^4.1.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
